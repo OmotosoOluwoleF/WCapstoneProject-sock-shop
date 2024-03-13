@@ -112,9 +112,9 @@ socks-shop-deploy/
 ├── terraform/
 │   ├── main.tf         # Main Terraform configuration for AWS EKS
 │   ├── terraform.tfvars    # Terraform configuration
-│   ├── outputs.tf      # Terraform outputs
-│   ├── provider.tf     # Provider configuration
-│   └── vpc.auto.tfvars          # VPC configuration
+│   ├── outputs.tf      #Terraform outputs
+│   ├── provider.tf     #Provider configuration
+│   └── vpc.auto.tfvars  #VPC configuration
 └──README.md
 ```
 
