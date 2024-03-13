@@ -97,7 +97,7 @@ The main objectives of the project are as follows:
 socks-shop-deploy/
 ├── Eks/
 │   └── variables/
-|   ├── main.tf         # Main Terraform configuration for AWS EKS
+|   ├── versions.tf         # Main Terraform configuration for AWS EKS
 │   ├── vpc-variables.tf
 |   ├── eks-variables.tf         
 │   └── versions.tf    
