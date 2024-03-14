@@ -97,13 +97,13 @@ The main objectives of the project are as follows:
 socks-shop-deploy/
 ├── Eks/
 │   └── variables/
-|   ├── main.tf         # Main Terraform configuration for AWS EKS
+|   ├── versions.tf         
 │   ├── vpc-variables.tf
 |   ├── eks-variables.tf         
 │   └── versions.tf    
 ├── kubernetes/ 
-│   ├── Ingress-rule   # Kubernetes deployment manifests
-│   └── value.yaml      # Kubernetes ingress rule manifest
+│   ├── Ingress-rule   
+│   └── value.yaml      #Kubernetes ingress rule manifest
 ├── monitoring/
 │   ├── prometheus/
 │   │   └── values.yaml   # Custom values for Prometheus Helm chart
@@ -112,9 +112,9 @@ socks-shop-deploy/
 ├── terraform/
 │   ├── main.tf         # Main Terraform configuration for AWS EKS
 │   ├── terraform.tfvars    # Terraform configuration
-│   ├── outputs.tf      # Terraform outputs
-│   ├── provider.tf     # Provider configuration
-│   └── vpc.auto.tfvars          # VPC configuration
+│   ├── outputs.tf      #Terraform outputs
+│   ├── provider.tf     #Provider configuration
+│   └── vpc.auto.tfvars  #VPC configuration
 └──README.md
 ```
 
