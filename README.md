@@ -1,5 +1,7 @@
 # **SOCKS-SHOP MICROSERVICES-BASED APPLICATION DEPLOYMENT ON KUBERNETES USING INFRASTRUCTURE AS CODE (IaaC).**
 
+**PROJECT LIVE LINK:** [CAPSTONE PROJECT LINK](http://sock-shop.woleomotoso.com.ng/)
+
 ## **SUMARRY** 
 The project provides hands-on experience with Infrastructure as Code (IaaC), Kubernetes, and cloud securities and DevOps practices. 
 It will also perform the value of automation and monitoring just to ensure proper reliability and retainability of microservices-based applications. 
